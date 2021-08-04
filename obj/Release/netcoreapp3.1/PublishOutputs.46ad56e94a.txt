@@ -1,0 +1,5 @@
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Release\netcoreapp3.1\publish\Urna Eletronica.exe
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Release\netcoreapp3.1\publish\Urna Eletronica.dll
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Release\netcoreapp3.1\publish\Urna Eletronica.deps.json
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Release\netcoreapp3.1\publish\Urna Eletronica.runtimeconfig.json
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Release\netcoreapp3.1\publish\Urna Eletronica.pdb

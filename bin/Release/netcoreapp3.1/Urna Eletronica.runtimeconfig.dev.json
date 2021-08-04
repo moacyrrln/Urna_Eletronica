@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\moacyr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\moacyr\\.nuget\\packages"
+    ]
+  }
+}

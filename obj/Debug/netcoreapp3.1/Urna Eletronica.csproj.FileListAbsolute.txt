@@ -1,0 +1,16 @@
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Debug\netcoreapp3.1\Urna Eletronica.exe
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Debug\netcoreapp3.1\Urna Eletronica.deps.json
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Debug\netcoreapp3.1\Urna Eletronica.runtimeconfig.json
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Debug\netcoreapp3.1\Urna Eletronica.runtimeconfig.dev.json
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Debug\netcoreapp3.1\Urna Eletronica.dll
+C:\Users\moacyr\source\repos\Urna Eletronica\bin\Debug\netcoreapp3.1\Urna Eletronica.pdb
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.csproj.AssemblyReference.cache
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna_Eletronica.Form1.resources
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.csproj.GenerateResource.cache
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.AssemblyInfoInputs.cache
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.AssemblyInfo.cs
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.csproj.CoreCompileInputs.cache
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.dll
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.pdb
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna Eletronica.genruntimeconfig.cache
+C:\Users\moacyr\source\repos\Urna Eletronica\obj\Debug\netcoreapp3.1\Urna_Eletronica.Properties.Resources.resources
